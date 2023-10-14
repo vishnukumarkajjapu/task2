@@ -7,7 +7,7 @@ const Cal = (props) => {
         handleClick(value)
     }
     return (
-        <button className='w-10' onClick={handleC} value={value}>{value}</button>
+        <button className='w-10 px-1' onClick={handleC} value={value}>{value}</button>
     )
 }
 
