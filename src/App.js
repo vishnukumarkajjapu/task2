@@ -65,7 +65,7 @@ function App() {
   };
   return (
     <div className="grid place-content-center h-screen">
-      <div className="h-auto bg-blue-600 text-white w-fit rounded">
+      <div className="h-auto bg-blue-600 text-white rounded">
         <div className="h-[100px] text-right px-2 py-1">{cal}</div>
         <div className="h-auto bg-black py-6">
           <div className="grid grid-cols-4 gap-2">
